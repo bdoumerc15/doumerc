@@ -1,0 +1,38 @@
+.first {
+    background-color: black;
+    height: 350px;
+    width: 150;
+    border: 5px solid white;
+}
+
+.second {
+    background-color: green;
+    height: 350px;
+    width: 150;
+    border: 5px solid white;
+}
+
+.third {
+    background-color: red;
+    height: 350px;
+    width: 150;
+    border: 5px solid white;
+}
+
+.fourth {
+    background-color: grey;
+    height: 350px;
+    width: 150;
+    border: 5px solid white;
+}
+
+.image {
+    height: 150px;
+    margin: 10px;
+    /* width: auto; */
+}
+
+img {
+    height: 150px;
+    width: 100%;
+}
