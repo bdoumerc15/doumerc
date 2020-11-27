@@ -1,29 +1,37 @@
+body {
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-family: 'Nunito', sans-serif; */
+    /* font-family: 'Nunito', sans-serif; */
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 .first {
     background-color: black;
     height: 350px;
-    width: 150;
-    border: 5px solid white;
+    width: 100;
+    margin: 10px;
 }
 
 .second {
     background-color: green;
     height: 350px;
-    width: 150;
-    border: 5px solid white;
+    width: 100;
+    margin: 10px;
 }
 
 .third {
     background-color: red;
     height: 350px;
-    width: 150;
-    border: 5px solid white;
+    width: 100;
+    margin: 10px;
 }
 
 .fourth {
     background-color: grey;
     height: 350px;
-    width: 150;
-    border: 5px solid white;
+    width: 100;
+    margin: 10px;
 }
 
 .image {
@@ -35,4 +43,60 @@
 img {
     height: 150px;
     width: 100%;
+}
+
+
+/* .formform {
+    position: absolute;
+    top: 5px;
+} */
+
+
+/* 
+.formulando {
+    background-color: green;
+    position: absolute;
+    top: 10px;
+    width: 40%;
+    margin: 0 10px;
+} */
+
+#input-size {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.nav-item {
+    /* margin: 0 40px 0 0; */
+    font-size: 28px;
+    /* font-weight: 900; */
+    padding: 0 8px;
+}
+
+#logo {
+    height: 40px;
+    width: 40px;
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+#user-img {
+    height: 60px;
+    width: 60px;
+    /* margin: 0 0 0 10px; */
+    /* padding-left: 10px; */
+}
+
+.user-icon {
+    padding: 0!important;
+}
+
+.formulando {
+    /* background-color: black; */
+    width: 100%;
+    /* height: 30px; */
 }
